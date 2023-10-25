@@ -1,0 +1,20 @@
+#include <iostream>
+using namespace std;
+
+int CurrentAge;
+int CurrentYear;
+int FutureYear;
+int NewAge;
+
+cout<<"Please enter current age";
+cin>>Current Age
+cout<<"Please enter current year";
+cin>>Current year
+cout<<"Please enter Future year";
+cin>>Future Age
+
+int main() {
+NewAge=(FutureYear-CurrentYear)+CurrentAge;
+cout<< NewAge;
+return 0;
+}
